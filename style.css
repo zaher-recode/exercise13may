@@ -42,7 +42,7 @@ margin: 0 10px;
 }
 .bg{
     background-color: #777;
-    height: 400px;
+    /* height: 400px; */
     padding: 30px;
     display: flex;
     justify-content: center;
